@@ -81,6 +81,7 @@ Early-career employees need stronger engagement and support
 Sales and travel-intensive roles require special HR focus
 
 ✅ Strategic Recommendations for HR Team
+
 🧠 1. Improve Job Satisfaction
 Conduct regular employee feedback surveys
 Act on feedback with visible changes
@@ -112,11 +113,14 @@ Use SQL views and procedures for ongoing reporting
 Integrate analytics into HR decision-making
 
 🏁 Final Conclusion
+
 Employee attrition can be significantly reduced through data-driven HR strategies.
 By improving satisfaction, work-life balance, compensation fairness, and early-career engagement, organizations can create a healthier, more productive, and more loyal workforce.
+
 This project demonstrates how SQL and analytics can directly support business decisions.
 
 🔖 Skills Demonstrated in This Project
+
 SQL Data Analysis (Basic to Advanced)
 Aggregations & Conditional Logic
 Window Functions (ROW_NUMBER)
