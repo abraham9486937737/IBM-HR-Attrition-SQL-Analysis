@@ -1,4 +1,5 @@
 📊 IBM HR Attrition Analysis – Business Insights & Recommendations
+
 🔍 Project Objective
 
 The objective of this analysis is to identify key factors contributing to employee attrition and provide actionable, data-driven recommendations to help the HR team reduce attrition and improve employee satisfaction.
@@ -6,6 +7,7 @@ The objective of this analysis is to identify key factors contributing to employ
 The analysis was performed using Microsoft SQL Server, leveraging advanced SQL techniques such as views, stored procedures, window functions, and aggregations.
 
 📈 Key Findings (What We Found)
+
 1️⃣ Overall Attrition Overview
 
 Total Employees: 1,470
